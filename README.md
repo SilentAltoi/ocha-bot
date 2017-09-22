@@ -1,2 +1,2 @@
 # ocha-bot
-Discord maintenance bot
+Discord Maintenance Bot
